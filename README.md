@@ -1,4 +1,4 @@
-# RE'21 - "Evaluating the relationship between user values and requirements"
+# RE'21
 
 ## Appendix A:
 
