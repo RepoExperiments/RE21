@@ -1,6 +1,4 @@
-# RE'21
-
-### Submitted paper: "Evaluating the relationship between user values and requirements"
+# RE'21 - "Evaluating the relationship between user values and requirements"
 
 ## Appendix A:
 
